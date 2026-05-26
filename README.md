@@ -9,6 +9,7 @@ I've always had a passion with computers & technologies when I was younger, I've
 
 I am currently learning about Python, HTML & CSS through my computing college course but I plan to learn more python and other programming langauges by myself and I also learn digital art in my own time.
 
+<b>Some other things about me!</b>
 <ul>
   <li>🎓 Computing Science Student</li>
   <li>🧮 National 4 Level Mathematics</li>
