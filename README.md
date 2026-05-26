@@ -1,6 +1,5 @@
 # Hello There!
 Welcome to my GitHub Profile. 
-
 This is where I upload my source code from some of my programs!
 
 # Who Am I?
