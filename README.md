@@ -10,8 +10,8 @@ I am currently learning about Python through my computing college course but I p
 <ul>
   <li>🎓 Computing Science Student</li>
   <li>🧮 National 4 Level Mathematics</li>
-  <li>💻 Learner Software Engineer</li>
-  <li>🌐 Learner Web Developer</li>
+  <li>💻 Junior Software Engineer</li>
+  <li>🌐 Junior Web Developer</li>
   <li>🖋️ Learner Digital Artist</li>
 </ul>
 
