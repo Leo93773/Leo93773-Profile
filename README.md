@@ -11,8 +11,8 @@ I am currently learning about Python, HTML & CSS through my computing college co
 
 <b>Some other things about me!</b>
 <ul>
-  <li>🎓 Computing Science Student</li>
-  <li>🧮 National 4 Level Mathematics</li>
+  <li>🎓 NQ6 Computing Science Student</li>
+  <li>🧮 NQ4 Mathematics Qualification</li>
   <li>💻 Junior Software Engineer</li>
   <li>🌐 Junior Web Developer</li>
   <li>🖋️ Learner Digital Artist</li>
