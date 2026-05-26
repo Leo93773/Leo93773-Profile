@@ -22,3 +22,6 @@ I am currently learning about Python through my computing college course but I p
 <ul>
   <li>Nothing Yet :(</li>
 </ul>
+
+
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo93773)](https://github.com/anuraghazra/github-readme-stats)
