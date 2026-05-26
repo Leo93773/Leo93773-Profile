@@ -3,7 +3,9 @@ Welcome to my GitHub Profile.
 This is where I upload my source code from some of my programs!
 
 # Who Am I?
-My Name is Leo, I am 20 years old and I have Autism & Type 1 Diabetes
+My Name is Leo, I am 20 years old and I have Autism & Type 1 Diabetes.
+
+I've always had a passion with computers & technologies mostly with code, I've been developing games over 10 years ago back in the day using scratch to learn about the basics of game development but now i'm beginning to develop games on other game engines like clickteam fusion!
 
 I am currently learning about Python, HTML & CSS through my computing college course but I plan to learn other programming langauges myself and I also learn digital art in my own time.
 
