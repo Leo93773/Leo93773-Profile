@@ -5,7 +5,7 @@ This is where I upload my source code from some of my programs!
 # Who Am I?
 My Name is Leo, I am 20 years old and I have Autism & Type 1 Diabetes
 
-I am currently learning about Python through my computing college course but I plan to learn other programming langauges myself and I also learn digital art in my own time.
+I am currently learning about Python, HTML & CSS through my computing college course but I plan to learn other programming langauges myself and I also learn digital art in my own time.
 
 <ul>
   <li>🎓 Computing Science Student</li>
