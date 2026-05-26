@@ -1,5 +1,7 @@
 # Hello There!
-Welcome to my GitHub Profile.
+Welcome to my GitHub Profile. 
+
+This is where I upload my source code from some of my programs!
 
 # Who Am I?
 My Name is Leo, I am 20 years old and I have Autism & Type 1 Diabetes
