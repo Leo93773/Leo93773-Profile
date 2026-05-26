@@ -9,6 +9,7 @@ I am currently learning about Python through my computing college course but I p
 
 <ul>
   <li>🎓 Computing Science Student</li>
+  <li>💻 Learner Programmer</li>
 </ul>
 
 # What have I worked on?
