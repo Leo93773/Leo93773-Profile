@@ -11,6 +11,7 @@ I am currently learning about Python through my computing college course but I p
   <li>🎓 Computing Science Student</li>
   <li>💻 Learner Software Engineer</li>
   <li>🌐 Learner Web Developer</li>
+  <li>🖋️ Learner Digital Artist</li>
 </ul>
 
 # What have I worked on?
