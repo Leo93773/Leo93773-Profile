@@ -19,7 +19,7 @@ I am currently learning about Python, HTML & CSS through my computing college co
   <li>🎥 Hobbyist YouTuber</li>
 </ul>
 
-I'd prefer to work on my own when it comes to my personal projects because i'm shy to work with other and I always have a fear that i'm always messing something up.
+I'd prefer to work on my own when it comes to my personal projects because i'm too shy to work with others and I always have a fear that i'm always messing something up.
 
 # What have I worked on?
 <ul>
