@@ -7,7 +7,7 @@ My Name is Leo, I am a Scottish 20 year old man with Autism & Type 1 Diabetes.
 
 I've always had a passion with computers & technologies when I was younger, I've been developing games for over 10 years ago, back in the day I would use scratch to learn about the basics of game development but now i'm beginning to develop games on other game engines like Clickteam Fusion!
 
-I am currently learning about Python, HTML & CSS through my computing college course but I plan to learn more python and other programming langauges by myself and I also learn digital art in my own time.
+I am currently learning about Python, HTML & CSS through my computing college course but I plan to learn more python and other programming languages by myself and I'm also learning digital art in my own time.
 
 <b>Some other things about me!</b>
 <ul>
